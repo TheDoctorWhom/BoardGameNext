@@ -1,0 +1,1196 @@
+{
+    "CATALOG": {
+       "GAME": [
+          {
+             "title": "Agricola",
+             "difficulty": "hard",
+             "players": "1–5 players",
+             "time": "30–150 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/31260/agricola"
+          },
+          {
+             "title": "Battlestar Galactica",
+             "difficulty": "hard",
+             "players": "3–6 players",
+             "time": "120–180 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/37111/battlestar-galactica-board-game"
+          },
+          {
+             "title": "Bootleggers",
+             "difficulty": "medium",
+             "players": "3–6 players",
+             "time": "90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/12477/bootleggers"
+          },
+          {
+             "title": "Carcassonne",
+             "difficulty": "medium",
+             "players": "2-5 players",
+             "time": "30-45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/822/carcassonne"
+          },
+          {
+             "title": "Catan",
+             "difficulty": "medium",
+             "players": "3-4 players",
+             "time": "60-120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/13/catan"
+          },
+          {
+             "title": "Star Trek: Catan",
+             "difficulty": "medium",
+             "players": "3-4 players",
+             "time": "75 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/117985/star-trek-catan"
+          },
+          {
+             "title": "The Settlers of Canaan",
+             "difficulty": "medium",
+             "players": "2-4 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/3655/settlers-canaan"
+          },
+          {
+             "title": "Dark Moon",
+             "difficulty": "medium",
+             "players": "3-7 players",
+             "time": "60-75 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/111124/dark-moon"
+          },
+          {
+             "title": "Deadwood",
+             "difficulty": "medium",
+             "players": "2-5 players",
+             "time": "30-60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/96713/deadwood"
+          },
+          {
+             "title": "Dead of Winter: A Crossroads Game",
+             "difficulty": "medium",
+             "players": "2-5 players",
+             "time": "60-120",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/150376/dead-winter-crossroads-game"
+          },
+          {
+             "title": "Dead of Winter: The Long Night",
+             "difficulty": "medium",
+             "players": "2-5 players",
+             "time": "60-120",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/193037/dead-winter-long-night"
+          },
+          {
+             "title": "Dragon Quest",
+             "difficulty": "hard",
+             "players": "2-6 players",
+             "time": "Forever",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Agricola: All Things Big\t and Small",
+             "difficulty": "medium",
+             "players": "2 players",
+             "time": "30 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com//boardgame/119890/agricola-all-creatures-big-and-small"
+          },
+          {
+             "title": "Cutthroat Caverns",
+             "difficulty": "medium",
+             "players": "3-6 players",
+             "time": "90 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/28259/cutthroat-caverns"
+          },
+          {
+             "title": "Dark Riders Games",
+             "difficulty": "medium",
+             "players": "3-4 players",
+             "time": "? min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Random Encounters",
+             "difficulty": "easy",
+             "players": "1-5 players",
+             "time": "15-20 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Zombies!!!",
+             "difficulty": "medium",
+             "players": "2-6 players",
+             "time": "60-90 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/2471/zombies"
+          },
+          {
+             "title": "Martians!!!",
+             "difficulty": "medium",
+             "players": "2-6 players",
+             "time": "60 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/40416/martians"
+          },
+          {
+             "title": "Kosherland",
+             "difficulty": "easy",
+             "players": "2-4 players",
+             "time": "30 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/22934/kosherland"
+          },
+          {
+             "title": "Wits and Wagers",
+             "difficulty": "easy",
+             "players": "4-20 players",
+             "time": "25 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Hover Kraft",
+             "difficulty": "easy",
+             "players": "any players",
+             "time": "? min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "The Haunting House",
+             "difficulty": "medium",
+             "players": "2-6 players",
+             "time": "45 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Game of Thrones",
+             "difficulty": "hard",
+             "players": "2 players",
+             "time": "30-60 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Babylon 5",
+             "difficulty": "hard",
+             "players": "2 players",
+             "time": "30-60 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Gloom/ munchkin / space",
+             "difficulty": "easy",
+             "players": "2-5 players",
+             "time": "60 min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "The Infinite Boardgame",
+             "difficulty": "easy",
+             "players": "1-6 players",
+             "time": "10-45 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "All Queens Chess",
+             "difficulty": "easy",
+             "players": "2 players",
+             "time": "? min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/34948/all-queens-chess"
+          },
+          {
+             "title": "TMNT: Shadows of the Past",
+             "difficulty": "hard",
+             "players": "2-5 players",
+             "time": "60-90 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/180771/teenage-mutant-ninja-turtles-shadows-past"
+          },
+          {
+             "title": "Pac-man",
+             "difficulty": "easy",
+             "players": "2-4 players",
+             "time": "15 min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "null"
+          },
+          {
+             "title": "Anatomy Park",
+             "difficulty": "medium",
+             "players": "2-4 players",
+             "time": "30–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/220926/rick-and-morty-anatomy-park-game"
+          },
+          {
+             "title": "Captain treasure boots",
+             "difficulty": "medium",
+             "players": "2–6 players",
+             "time": "40 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/19114/captain-treasure-boots"
+          },
+          {
+             "title": "Cranium",
+             "difficulty": "easy",
+             "players": "4–16 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/891/cranium"
+          },
+          {
+             "title": "Diamonds",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "20–30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/152162/diamonds"
+          },
+          {
+             "title": "Entropy",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "15 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/171339/entropy"
+          },
+          {
+             "title": "Firefly Out Of The Black",
+             "difficulty": "medium",
+             "players": "3–5 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/139137/firefly-out-black"
+          },
+          {
+             "title": "Cryptid",
+             "difficulty": "medium",
+             "players": "3–5 players",
+             "time": "30–50 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/246784/cryptid"
+          },
+          {
+             "title": "Forbidden Island",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/65244/forbidden-island"
+          },
+          {
+             "title": "Galaxy Trucker",
+             "difficulty": "medium",
+             "players": "2–4  players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/31481/galaxy-trucker"
+          },
+          {
+             "title": "Ghostbuster",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "30–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/173275/ghostbusters-board-game"
+          },
+          {
+             "title": "Gloom",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/12692/gloom"
+          },
+          {
+             "title": "How to Rob a Bank",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/232079/how-rob-bank"
+          },
+          {
+             "title": "Indiana Jones DVD Adventure Game",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/35294/indiana-jones-dvd-adventure-game"
+          },
+          {
+             "title": "Jurassic Park Danger",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "50 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/245431/jurassic-park-danger-adventure-strategy-game"
+          },
+          {
+             "title": "Kill Doctor Lucky",
+             "difficulty": "medium",
+             "players": "3–8 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/257/kill-doctor-lucky"
+          },
+          {
+             "title": "King of Tokyo",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/70323/king-tokyo"
+          },
+          {
+             "title": "Lanterns: The Harvest Festival",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/160851/lanterns-harvest-festival"
+          },
+          {
+             "title": "Lanterns Dice: Lights in the Sky",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30-45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/274090/lanterns-dice-lights-sky"
+          },
+          {
+             "title": "Lock and Key",
+             "difficulty": "medium",
+             "players": "3–6 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/110868/locke-key-game"
+          },
+          {
+             "title": "Key to the Kingdom ",
+             "difficulty": "medium",
+             "players": "2–6 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/1933/key-kingdom"
+          },
+          {
+             "title": "Disney Jungle Cruise Adventure Game",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "45-60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/303650/disney-jungle-cruise-adventure-game"
+          },
+          {
+             "title": "Disney: The Haunted Mansion – Call of the Spirits Game ",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/309129/disney-haunted-mansion-call-spirits-game"
+          },
+          {
+             "title": "Imhotep: The Duel",
+             "difficulty": "easy",
+             "players": "2 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/255674/imhotep-duel"
+          },
+          {
+             "title": "Geek Out!",
+             "difficulty": "easy",
+             "players": "2-99 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/141430/geek-out"
+          },
+          {
+             "title": "Melee",
+             "difficulty": "medium",
+             "players": "2 players",
+             "time": "15 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/3464/melee"
+          },
+          {
+             "title": "Morsels",
+             "difficulty": "medium",
+             "players": "2 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://https://boardgamegeek.com/boardgame/122298/morels"
+          },
+          {
+             "title": "Munchkin Quest",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "180 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/29678/munchkin-quest"
+          },
+          {
+             "title": "Munchkins",
+             "difficulty": "medium",
+             "players": "3–6 players",
+             "time": "60–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/1927/munchkin"
+          },
+          {
+             "title": "Mysterium",
+             "difficulty": "easy",
+             "players": "2–7 players",
+             "time": "42 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/181304/mysterium"
+          },
+          {
+             "title": "Mysterium Park",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "30-45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/301767/mysterium-park"
+          },
+          {
+             "title": "Orphan Black",
+             "difficulty": "medium",
+             "players": "3–6 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/175221/orphan-black-card-game"
+          },
+          {
+             "title": "Outrage",
+             "difficulty": "medium",
+             "players": "2–6 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/1147/outrage-steal-crown-jewels"
+          },
+          {
+             "title": "Pack and Stack",
+             "difficulty": "easy",
+             "players": "3–6 players",
+             "time": "30–45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/37120/pack-stack"
+          },
+          {
+             "title": "Pandemic: on the brink",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgameexpansion/40849/pandemic-brink"
+          },
+          {
+             "title": "Pandemic",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/30549/pandemic"
+          },
+          {
+             "title": "Photosynthesis",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/218603/photosynthesis"
+          },
+          {
+             "title": "Portal the Uncooperative Cake",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30–45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/159406/portal-uncooperative-cake-acquisition-game"
+          },
+          {
+             "title": "Posthuman",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "30–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/171835/posthuman"
+          },
+          {
+             "title": "Race for the Galaxy",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/28143/race-galax"
+          },
+          {
+             "title": "Random Encounter",
+             "difficulty": "medium",
+             "players": "1–5 players",
+             "time": "15–20 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/177751/random-encounter-plains-troll-king"
+          },
+          {
+             "title": "Scrabble",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/320/scrabble"
+          },
+          {
+             "title": "Settlers of Catan Card Game",
+             "difficulty": "medium",
+             "players": "2 players",
+             "time": "60–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/278/catan-card-game"
+          },
+          {
+             "title": "Settlers of Catan",
+             "difficulty": "medium",
+             "players": "3–4 players",
+             "time": "60–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/13/catan"
+          },
+          {
+             "title": "Slap .45",
+             "difficulty": "easy",
+             "players": "3–7 players",
+             "time": "20 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/165633/slap-45"
+          },
+          {
+             "title": "Smash Up",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/122522/smash"
+          },
+          {
+             "title": "Secret Hitler",
+             "difficulty": "easy",
+             "players": "5–10 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/188834/secret-hitler"
+          },
+          {
+             "title": "Sonar",
+             "difficulty": "medium",
+             "players": "2–8 players",
+             "time": "45–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/171131/captain-sonar"
+          },
+          {
+             "title": "Spaceteam",
+             "difficulty": "easy",
+             "players": "3–6",
+             "time": "5 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/184491/spaceteam"
+          },
+          {
+             "title": "Splender",
+             "difficulty": "medium",
+             "players": "2–4",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/148228/splendor"
+          },
+          {
+             "title": "Star Trek deck-building game",
+             "difficulty": "medium",
+             "players": "2–5",
+             "time": "60–90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/98242/star-trek-deck-building-game-next-generation"
+          },
+          {
+             "title": "Survive escape from Atlantis",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis"
+          },
+          {
+             "title": "Survive Space Attack",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45–60 Min",
+             "type": "board",
+             "lastplayed": "2022-03-2",
+             "link": "https://boardgamegeek.com/boardgame/177147/survive-space-attacko"
+          },
+          {
+             "title": "Takenoko",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/70919/takenoko"
+          },
+          {
+             "title": "Teenage Mutant Ninja Turtles Shadows",
+             "difficulty": "hard",
+             "players": "2–5 players",
+             "time": "60–90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/180771/teenage-mutant-ninja-turtles-shadows-past"
+          },
+          {
+             "title": "Terra Mystica",
+             "difficulty": "hard",
+             "players": "2–5 players",
+             "time": "60–150 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/120677/terra-mystica"
+          },
+          {
+             "title": "The Resistance",
+             "difficulty": "easy",
+             "players": "5–10 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/41114/resistance"
+          },
+          {
+             "title": "Then They Held Hands",
+             "difficulty": "medium",
+             "players": "2 players",
+             "time": "30–45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands"
+          },
+          {
+             "title": "Ticket to Ride New York",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "10–15 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/253284/ticket-ride-new-york"
+          },
+          {
+             "title": "Ticket to Ride",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "30–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/9209/ticket-ride"
+          },
+          {
+             "title": "time Stories",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/146508/time-stories"
+          },
+          {
+             "title": "time Stories Revolution: The Hadal Project",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "180 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/287742/time-stories-revolution-hadal-project"
+          },
+          {
+             "title": "Vineta",
+             "difficulty": "medium",
+             "players": "2–6 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/27532/vinetao"
+          },
+          {
+             "title": "where in the world is carmen sandiego",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/8009/where-world-carmen-sandiego"
+          },
+          {
+             "title": "Boss Monster 2",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "20–30 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/174973/boss-monster-2-next-level"
+          },
+          {
+             "title": "Boss Monster",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/131835/boss-monster-dungeon-building-card-game"
+          },
+          {
+             "title": "Bycatch",
+             "difficulty": "medium",
+             "players": "3–5 players",
+             "time": "20 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/170174/bycatch"
+          },
+          {
+             "title": "Chrononauts",
+             "difficulty": "medium",
+             "players": "1–6 players",
+             "time": "30 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/815/chrononauts"
+          },
+          {
+             "title": "Citadels",
+             "difficulty": "medium",
+             "players": "2–8 players",
+             "time": "20–60 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/478/citadels"
+          },
+          {
+             "title": "Dark Stories",
+             "difficulty": "easy",
+             "players": "2–15 players",
+             "time": "20 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/18803/black-stories"
+          },
+          {
+             "title": "Dungeon Busters",
+             "difficulty": "easy",
+             "players": "3–5 players",
+             "time": "20 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/172600/dungeon-busters"
+          },
+          {
+             "title": "Exit",
+             "difficulty": "medium",
+             "players": "1–6 players",
+             "time": "45–150 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/203417/exit-game-secret-lab"
+          },
+          {
+             "title": "Fluxx",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "5–30 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/258/fluxx"
+          },
+          {
+             "title": "The Game",
+             "difficulty": "easy",
+             "players": "1–5 players",
+             "time": "20 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/173090/game"
+          },
+          {
+             "title": "Hanabi",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "25 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/98778/hanabi"
+          },
+          {
+             "title": "Harbour",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "30–60 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/155969/harbour"
+          },
+          {
+             "title": "Love Letter",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "20 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/129622/love-letter"
+          },
+          {
+             "title": "MacGyver",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "60 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/257598/macgyver-escape-room-game"
+          },
+          {
+             "title": "Oregon Trail",
+             "difficulty": "easy",
+             "players": "2–6 players",
+             "time": "30–45 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/205322/oregon-trail-card-game"
+          },
+          {
+             "title": "Peasant Buffet",
+             "difficulty": "easy",
+             "players": "2–7 players",
+             "time": "15 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/155465/peasant-buffet"
+          },
+          {
+             "title": "Pixel Glory",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "25 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/150014/pixel-glory"
+          },
+          {
+             "title": "Sushi Go",
+             "difficulty": "easy",
+             "players": "2–5 players",
+             "time": "15 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/133473/sushi-go"
+          },
+          {
+             "title": "Total Rickall",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "30 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/194232/rick-and-morty-total-rickall-card-game"
+          },
+          {
+             "title": "Unlock",
+             "difficulty": "medium",
+             "players": "2–6 players",
+             "time": "45–75 Min",
+             "type": "card",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/213460/unlock-escape-adventures"
+          },
+          {
+             "title": "Forbidden Island",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/65244/forbidden-island"
+          },
+          {
+             "title": "Forbidden Sky",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/245271/forbidden-sky"
+          },
+          {
+             "title": "Sushi Roll",
+             "difficulty": "easy",
+             "players": "2–5 players",
+             "time": "20 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/271869/sushi-roll"
+          },
+          {
+             "title": "Far Space Foundry",
+             "difficulty": "hard",
+             "players": "1–4 players",
+             "time": "80 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/160744/far-space-foundry"
+          },
+          {
+             "title": "Dice Forge",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/194594/dice-forge"
+          },
+          {
+             "title": "Cytosis: A Cell Biology Board Game",
+             "difficulty": "medium",
+             "players": "2–5 players",
+             "time": "60–90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-board-game"
+          },
+          {
+             "title": "The Princess Bride Adventure Book Game",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "15–90 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-board-game"
+          },
+          {
+             "title": "The Uncanny X-Men Alert Adventure Game",
+             "difficulty": "medium",
+             "players": "2–4 players",
+             "time": "60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/723/uncanny-x-men-alert-adventure-game"
+          },
+          {
+             "title": "Sagrada",
+             "difficulty": "medium",
+             "players": "1–4 players",
+             "time": "30–45 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/199561/sagrada"
+          },
+          {
+             "title": "Fireball Island: The Curse of Vul-Kar",
+             "difficulty": "easy",
+             "players": "2–4 players",
+             "time": "45–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/233020/fireball-island-curse-vul-kar"
+          },
+          {
+             "title": "Dinosaur Island",
+             "difficulty": "hard",
+             "players": "1–4 players",
+             "time": "90–120 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/221194/dinosaur-island"
+          },
+          {
+             "title": "Terraforming Mars: Ares Expedition",
+             "difficulty": "hard",
+             "players": "1–4 players",
+             "time": "45–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/328871/terraforming-mars-ares-expedition"
+          },
+          {
+             "title": "Amazed: the Game",
+             "difficulty": "medium",
+             "players": "2–99 players",
+             "time": "20–60 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/262381/amazed-game"
+          },
+          {
+             "title": "Rubik's Race",
+             "difficulty": "easy",
+             "players": "2 players",
+             "time": "5 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/614/rubiks-race"
+          },
+          {
+             "title": "The Crew: The Quest for Planet Nine",
+             "difficulty": "easy",
+             "players": "2–5 players",
+             "time": "20 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine"
+          },
+          {
+             "title": "Mag·Blast: Third Edition",
+             "difficulty": "easy",
+             "players": "2–8 players",
+             "time": "10–20 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/23142/magblast-third-edition"
+          },
+          {
+             "title": "Jaipur",
+             "difficulty": "easy",
+             "players": "2 players",
+             "time": "30 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/54043/jaipur"
+          },
+          {
+             "title": "Bob's Burgers: Belcher Family Food Fight",
+             "difficulty": "easy",
+             "players": "3–6 players",
+             "time": "10–15 Min",
+             "type": "board",
+             "lastplayed": null,
+             "link": "https://boardgamegeek.com/boardgame/291100/bobs-burgers-belcher-family-food-fight"
+          },
+          {
+            "title": "Ark Nova",
+            "difficulty": "hard",
+            "players": "1–4 Players",
+            "time": "90–150 Min",
+            "type": "board",
+            "lastplayed": null,
+            "link": "https://boardgamegeek.com/boardgame/342942/ark-nova"
+         },
+         {
+            "title": "Dungeon Drop",
+            "difficulty": "easy",
+            "players": "1–4 Players",
+            "time": "10–20 Minn",
+            "type": "board",
+            "lastplayed": null,
+            "link": "https://boardgamegeek.com/boardgame/262208/dungeon-drop"
+         }
+ 
+       ]
+    }
+ }
+ 
