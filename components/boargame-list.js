@@ -17,7 +17,7 @@ function BoardgameList(props){
 
 
     return (
-        <ul classeName={classes.list}>
+        <ul className={classes.list}>
             {boardgames.map((boardgame) => (
                 <Boardgame
                     key={boardgame.title}

@@ -3,10 +3,14 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import BoardgameList from '../components/boargame-list';
 import useSWR from 'swr';
+import Search from '../components/search.js';
+import { useState } from "react";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
 export default function Home() {
+
+  const [boardgames, setBoardgames] = useState(0);
 
   const { data, error } = useSWR('/api/boardgame-data', fetcher);
 
@@ -18,10 +22,26 @@ export default function Home() {
   
   const boardgameData = JSON.parse(data);
 
-  // console.log(boardgameData.CATALOG);
+
+
+  function findEventHandler(searchTerm, data){
+      if (searchTerm && data){
+        const filteredData = data.map((boardgame) => {
+          if (boardgame.title.contains(searchTerm)){
+            return boardgame;
+          }
+        });
+        setBoardgames(filteredData);
+        console.log(filteredData);
+      }
+      else 
+        setBoardgames(data);
+
+  }
 
   return (
     <div>
+      <Search onSearch={findEventHandler} data={boardgameData.CATALOG.GAME}/>
       <BoardgameList  boardgames={boardgameData.CATALOG.GAME}/>
     </div>
   );
