@@ -1,5 +1,6 @@
 import classes from './search.module.css';
 import { useRef } from 'react';
+import Button from '../ui/button';
 
 function Search(props){
 
@@ -20,6 +21,7 @@ function Search(props){
                     <label htmlFor='searchtext'>Search</label>
                     <input type='text' id='searchtext' name='searchtext' ref={searchTextInputRef} />
                 </div>
+                <Button onClick={submitHandler}>Search</Button>
             </div>
         </form>
     );

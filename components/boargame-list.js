@@ -7,8 +7,6 @@ function BoardgameList(props){
 
     const { boardgames } = props;
 
-    console.log(boardgames);
-
     if(!boardgames){
         return (
             <p>loading....</p>

@@ -6,11 +6,12 @@ import useSWR from 'swr';
 import Search from '../components/search.js';
 import { useState } from "react";
 
-const fetcher = (url) => fetch(url).then((res) => res.json());
-
 export default function Home() {
 
-  const [boardgames, setBoardgames] = useState(0);
+  const [boardgames, setBoardgames] = useState('');
+
+
+  const fetcher = (url) => fetch(url).then((res) => res.json());
 
   const { data, error } = useSWR('/api/boardgame-data', fetcher);
 
@@ -22,27 +23,30 @@ export default function Home() {
   
   const boardgameData = JSON.parse(data);
 
-
-
   function findEventHandler(searchTerm, data){
+    console.log(searchTerm);
       if (searchTerm && data){
-        const filteredData = data.map((boardgame) => {
-          if (boardgame.title.contains(searchTerm)){
+        const boardgameFilteredData = data.map((boardgame) => {
+          if (boardgame.title.toLowerCase().includes(searchTerm.toLowerCase())){
             return boardgame;
           }
         });
-        setBoardgames(filteredData);
-        console.log(filteredData);
+        setBoardgames(boardgameFilteredData.filter(boardgame => boardgame !== undefined));
       }
-      else 
+      else {
         setBoardgames(data);
+      }
+
+      
 
   }
+
+
 
   return (
     <div>
       <Search onSearch={findEventHandler} data={boardgameData.CATALOG.GAME}/>
-      <BoardgameList  boardgames={boardgameData.CATALOG.GAME}/>
+      <BoardgameList  boardgames={boardgames?boardgames:boardgameData.CATALOG.GAME}/>
     </div>
   );
 }
