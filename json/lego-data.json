@@ -1,0 +1,1680 @@
+{
+    "CATALOG":
+    {
+        "LEGO": [
+        {
+            "title": "Fallingwater",
+            "theme": "architecture",
+            "number": "21005",
+            "BUILT": true,
+            "pieces": 811
+        },
+        {
+            "title": "Lady Liberty",
+            "theme": "brickheadz",
+            "number": "40367",
+            "BUILT": true,
+            "pieces": 153
+        },
+        {
+            "title": "Lucky Cat",
+            "theme": "brickheadz",
+            "number": "40436",
+            "BUILT": true,
+            "pieces": 134
+        },
+        {
+            "title": "Luke Skywalkers Landspeeder",
+            "theme": "starwars",
+            "number": "75271",
+            "BUILT": true,
+            "pieces": 135
+        },
+        {
+            "title": "Aquaman",
+            "theme": "brickheadz marvel",
+            "number": "41600",
+            "BUILT": true,
+            "pieces": 135
+        },
+        {
+            "title": "Mighty Dinosaurs",
+            "theme": "creator",
+            "number": "31058",
+            "BUILT": true,
+            "pieces": 174
+        },
+        {
+            "title": "Mia's Water Fun polybag",
+            "theme": "friends polybag",
+            "number": "30410",
+            "BUILT": true,
+            "pieces": 23
+        },
+        {
+            "title": "Mia’s Tree House",
+            "theme": "friends",
+            "number": "41335",
+            "BUILT": true,
+            "pieces": 343
+        },
+        {
+            "title": "Emma’s Art Café (Cafe)",
+            "theme": "friends",
+            "number": "41336",
+            "BUILT": true,
+            "pieces": 370
+        },
+        {
+            "title": "Heartlake town Airplane Tour",
+            "theme": "friends",
+            "number": "41343",
+            "BUILT": true,
+            "pieces": 319
+        },
+        {
+            "title": "Expecto Patronum",
+            "theme": "harrypotter",
+            "number": "75945",
+            "BUILT": true,
+            "pieces": 103
+        },
+        {
+            "title": "Aragog's Lair x2",
+            "theme": "harrypotter",
+            "number": "75950",
+            "BUILT": true,
+            "pieces": 149
+        },
+        {
+            "title": "Grindelwald's Escape",
+            "theme": "harrypotter",
+            "number": "75951",
+            "BUILT": true,
+            "pieces": 124
+        },
+        {
+            "title": "Newbury Juice Bar",
+            "theme": "hiddenside promotional",
+            "number": "40336",
+            "BUILT": true,
+            "pieces": 119
+        },
+        {
+            "title": "J.B.'s Ghost Lab",
+            "theme": "hiddenside",
+            "number": "70418",
+            "BUILT": true,
+            "pieces": 162
+        },
+        {
+            "title": "Wrecked Shrimp Boat",
+            "theme": "hiddenside",
+            "number": "70419",
+            "BUILT": true,
+            "pieces": 294
+        },
+        {
+            "title": "Graveyard Mystery",
+            "theme": "hiddenside",
+            "number": "70420",
+            "BUILT": false,
+            "pieces": 317
+        },
+        {
+            "title": "Welcome to the Hidden Side",
+            "theme": "hiddenside",
+            "number": "70427",
+            "BUILT": false,
+            "pieces": 157
+        },
+        {
+            "title": "Mr. Claus and Mrs. Claus",
+            "theme": "holiday brickheadz",
+            "number": "40274",
+            "BUILT": true,
+            "pieces": 341
+        },
+        {
+            "title": "Reindeer, Elf and Elfie",
+            "theme": "holiday brickheadz",
+            "number": "40353",
+            "BUILT": true,
+            "pieces": 281
+        },
+        {
+            "title": "Mini Gingerbread House",
+            "theme": "holiday creator promotional",
+            "number": "40337",
+            "BUILT": true,
+            "pieces": 499
+        },
+        {
+            "title": "Flower Display",
+            "theme": "holiday",
+            "number": "40187",
+            "BUILT": true,
+            "pieces": 100
+        },
+        {
+            "title": "Vampire and Bat",
+            "theme": "holiday",
+            "number": "40203",
+            "BUILT": true,
+            "pieces": 150
+        },
+        {
+            "title": "Advent Calendar 2019, town",
+            "theme": "holiday",
+            "number": "60235",
+            "BUILT": true,
+            "pieces": 150
+        },
+        {
+            "title": "Birthday Card",
+            "theme": "holiday",
+            "number": "53906",
+            "BUILT": true,
+            "pieces": 10
+        },
+        {
+            "title": "Brick Tales Pop-Up Book",
+            "theme": "ideas",
+            "number": "21315",
+            "BUILT": false,
+            "pieces": 841
+        },
+        {
+            "title": "Dinosaurs Fossils",
+            "theme": "ideas",
+            "number": "21320",
+            "BUILT": true,
+            "pieces": 910
+        },
+        {
+            "title": "Mountain Police Chase",
+            "theme": "juniors",
+            "number": "10751",
+            "BUILT": true,
+            "pieces": 115
+        },
+        {
+            "title": "Pteranodon Chase",
+            "theme": "jurassicpark",
+            "number": "75926",
+            "BUILT": true,
+            "pieces": 126
+        },
+        {
+            "title": "Jurassic Park Velociraptor Chase",
+            "theme": "jurassicpark",
+            "number": "75932",
+            "BUILT": true,
+            "pieces": 360
+        },
+        {
+            "title": "Witch-king Battle",
+            "theme": "lotr",
+            "number": "79015",
+            "BUILT": true,
+            "pieces": 101
+        },
+        {
+            "title": "Spider-Man's Mini Spider Crawler polybag",
+            "theme": "marvel polybag",
+            "number": "30451",
+            "BUILT": true,
+            "pieces": 73
+        },
+        {
+            "title": "Getaway Glider",
+            "theme": "movie",
+            "number": "70800",
+            "BUILT": true,
+            "pieces": 104
+        },
+        {
+            "title": "Good Morning Sparkle Babies!",
+            "theme": "movie",
+            "number": "70847",
+            "BUILT": true,
+            "pieces": 50
+        },
+        {
+            "title": "Throne Room Showdown",
+            "theme": "ninjago",
+            "number": "70651",
+            "BUILT": false,
+            "pieces": 221
+        },
+        {
+            "title": "Cole's Earth Driller",
+            "theme": "ninjago",
+            "number": "70669",
+            "BUILT": true,
+            "pieces": 587
+        },
+        {
+            "title": "Bean There, Donut That",
+            "theme": "promotional",
+            "number": "40358",
+            "BUILT": true,
+            "pieces": 146
+        },
+        {
+            "title": "Resistance Transport Pod",
+            "theme": "starwars",
+            "number": "75176",
+            "BUILT": true,
+            "pieces": 194
+        },
+        {
+            "title": "Hoth Medical Chamber",
+            "theme": "starwars",
+            "number": "75203",
+            "BUILT": true,
+            "pieces": 255
+        },
+        {
+            "title": "Yoda's Hut",
+            "theme": "starwars",
+            "number": "75208",
+            "BUILT": true,
+            "pieces": 229
+        },
+        {
+            "title": "Cloud-Rider Swoop Bikes",
+            "theme": "starwars",
+            "number": "75215",
+            "BUILT": true,
+            "pieces": 355
+        },
+        {
+            "title": "Porg",
+            "theme": "starwars",
+            "number": "75230",
+            "BUILT": true,
+            "pieces": 811
+        },
+        {
+            "title": "Action Battle Endor Assault",
+            "theme": "starwars",
+            "number": "75238",
+            "BUILT": true,
+            "pieces": 193
+        },
+        {
+            "title": "T-16 Skyhopper vs Bantha Microfighters",
+            "theme": "starwars",
+            "number": "75265",
+            "BUILT": true,
+            "pieces": 198
+        },
+        {
+            "title": "Midi-Scale Imperial Star Destroyer x2",
+            "theme": "starwars",
+            "number": "8099",
+            "BUILT": false,
+            "pieces": 423
+        },
+        {
+            "title": "Dumper",
+            "theme": "technic",
+            "number": "8451",
+            "BUILT": false,
+            "pieces": 183
+        },
+        {
+            "title": "Popcorn Cart polybag",
+            "theme": "town",
+            "number": "30364",
+            "BUILT": true,
+            "pieces": 43
+        },
+        {
+            "title": "Santa polybag",
+            "theme": "creator",
+            "number": "30573",
+            "BUILT": true,
+            "pieces": 67
+        },
+        {
+            "title": "town 2019 Minifigure Set",
+            "theme": "town",
+            "number": "40345",
+            "BUILT": true,
+            "pieces": 44
+        },
+        {
+            "title": "Pizza Van",
+            "theme": "town",
+            "number": "60150",
+            "BUILT": true,
+            "pieces": 249
+        },
+        {
+            "title": "Ambulance Helicopter",
+            "theme": "town",
+            "number": "60179",
+            "BUILT": true,
+            "pieces": 190
+        },
+        {
+            "title": "Forest Tractor",
+            "theme": "town",
+            "number": "60181",
+            "BUILT": true,
+            "pieces": 174
+        },
+        {
+            "title": "Heavy Cargo Transport",
+            "theme": "town",
+            "number": "60183",
+            "BUILT": true,
+            "pieces": 310
+        },
+        {
+            "title": "Mining Team",
+            "theme": "town",
+            "number": "60184",
+            "BUILT": true,
+            "pieces": 82
+        },
+        {
+            "title": "Mining Power Splitter",
+            "theme": "town",
+            "number": "60185",
+            "BUILT": true,
+            "pieces": 127
+        },
+        {
+            "title": "Arctic Exploration Team",
+            "theme": "town",
+            "number": "60191",
+            "BUILT": true,
+            "pieces": 70
+        },
+        {
+            "title": "Arctic Ice Crawler",
+            "theme": "town",
+            "number": "60192",
+            "BUILT": true,
+            "pieces": 200
+        },
+        {
+            "title": "Construction Loader",
+            "theme": "town",
+            "number": "60219",
+            "BUILT": true,
+            "pieces": 88
+        },
+        {
+            "title": "Diving Yacht",
+            "theme": "town",
+            "number": "60221",
+            "BUILT": false,
+            "pieces": 148
+        },
+        {
+            "title": "Snow Groomer",
+            "theme": "town",
+            "number": "60222",
+            "BUILT": true,
+            "pieces": 197
+        },
+        {
+            "title": "Harvester Transport",
+            "theme": "town",
+            "number": "60223",
+            "BUILT": true,
+            "pieces": 358
+        },
+        {
+            "title": "Satellite Service Mission",
+            "theme": "town",
+            "number": "60224",
+            "BUILT": true,
+            "pieces": 84
+        },
+        {
+            "title": "Rover Testing Drive",
+            "theme": "town",
+            "number": "60225",
+            "BUILT": true,
+            "pieces": 202
+        },
+        {
+            "title": "Mars Research Shuttle",
+            "theme": "town",
+            "number": "60226",
+            "BUILT": true,
+            "pieces": 273
+        },
+        {
+            "title": "Lunar Space Station",
+            "theme": "town",
+            "number": "60227",
+            "BUILT": true,
+            "pieces": 412
+        },
+        {
+            "title": "Safari Off-roader",
+            "theme": "town",
+            "number": "60267",
+            "BUILT": false,
+            "pieces": 168
+        },
+        {
+            "title": "Wild River Escape",
+            "theme": "town",
+            "number": "60176",
+            "BUILT": true,
+            "pieces": 126
+        },
+        {
+            "title": "Dr Fox Magnifying Machine",
+            "theme": "unikitty",
+            "number": "40314",
+            "BUILT": true,
+            "pieces": 76
+        },
+        {
+            "title": "Unikitty Cloud Car",
+            "theme": "unikitty",
+            "number": "41451",
+            "built": true,
+            "pieces": 126
+        },
+        {
+            "title": "Party Time",
+            "theme": "unikitty",
+            "number": "41453",
+            "BUILT": false,
+            "pieces": 214
+        },
+        {
+            "title": "Botanical Accessories polybag",
+            "theme": "xtra polybag",
+            "number": "40310",
+            "BUILT": true,
+            "pieces": 32
+        },
+        {
+            "title": "Bicycles polybag",
+            "theme": "xtra polybag",
+            "number": "40313",
+            "BUILT": true,
+            "pieces": 21
+        },
+        {
+            "title": "Christmas Accessories polybag",
+            "theme": "xtra polybag",
+            "number": "40368",
+            "BUILT": true,
+            "pieces": 32
+        },
+        {
+            "title": "Satellite polybag",
+            "theme": "town polybag",
+            "number": "30365",
+            "BUILT": true,
+            "pieces": 36
+        },
+        {
+            "title": "Pineapple Pencil Holder",
+            "theme": "dots",
+            "number": "41906",
+            "BUILT": true,
+            "pieces": 351
+        },
+        {
+            "title": "Rainbow Jewelry Stand",
+            "theme": "dots",
+            "number": "41905",
+            "BUILT": false,
+            "pieces": 213
+        },
+        {
+            "title": "Animal Picture Holders",
+            "theme": "dots",
+            "number": "41904",
+            "BUILT": true,
+            "pieces": 423
+        },
+        {
+            "title": "International Space Station",
+            "theme": "town",
+            "number": "21321",
+            "BUILT": true,
+            "pieces": 864
+        },
+        {
+            "title": "Mini Frame polybag",
+            "theme": "dots Promotional polybag",
+            "number": "30556",
+            "BUILT": true,
+            "pieces": 85
+        },
+        {
+            "title": "Rocket Rally Car",
+            "theme": "creator",
+            "number": "31074",
+            "BUILT": true,
+            "pieces": 241
+        },
+        {
+            "title": "Deep Sea Creatures",
+            "theme": "creator",
+            "number": "31088",
+            "BUILT": true,
+            "pieces": 230
+        },
+        {
+            "title": "Underwater Robot",
+            "theme": "creator",
+            "number": "31090",
+            "BUILT": true,
+            "pieces": 207
+        },
+        {
+            "title": "Rocket Truck",
+            "theme": "creator",
+            "number": "31103",
+            "BUILT": true,
+            "pieces": 198
+        },
+        {
+            "title": "Kylo Ren and Sith Trooper",
+            "theme": "starwars brickheadz",
+            "number": "75232",
+            "BUILT": true,
+            "pieces": 240
+        },
+        {
+            "title": "Fire Dragon",
+            "theme": "creator",
+            "number": "31102",
+            "BUILT": true,
+            "pieces": 234
+        },
+        {
+            "title": "Shuttle Transporter",
+            "theme": "creator",
+            "number": "31091",
+            "BUILT": true,
+            "pieces": 341
+        },
+        {
+            "title": "Anakins Podracer 20th Anniversary Edition",
+            "theme": "starwars",
+            "number": "75258",
+            "BUILT": true,
+            "pieces": 279
+        },
+        {
+            "title": "Helicopter Adventure",
+            "theme": "creator",
+            "number": "31092",
+            "BUILT": true,
+            "pieces": 114
+        },
+        {
+            "title": "Monster Truck",
+            "theme": "creator",
+            "number": "31101",
+            "BUILT": true,
+            "pieces": 163
+        },
+        {
+            "title": "Death Star II Battle",
+            "theme": "starwars promotional",
+            "number": "40407",
+            "BUILT": true,
+            "pieces": 235
+        },
+        {
+            "title": "D-O",
+            "theme": "starwars",
+            "number": "75278",
+            "BUILT": true,
+            "pieces": 519
+        },
+        {
+            "title": "Obi-Wan's Hut",
+            "theme": "starwars",
+            "number": "75270",
+            "BUILT": false,
+            "pieces": 200
+        },
+        {
+            "title": "El Fuego's Stunt Plane",
+            "theme": "hiddenside",
+            "number": "70429",
+            "BUILT": false,
+            "pieces": 295
+        },
+        {
+            "title": "Jack's Beach Buggy",
+            "theme": "hiddenside",
+            "number": "70428",
+            "BUILT": true,
+            "pieces": 170
+        },
+        {
+            "title": "Unstoppable Bike Chase",
+            "theme": "minions",
+            "number": "75549",
+            "BUILT": false,
+            "pieces": 136
+        },
+        {
+            "title": "Sunset Track Racer",
+            "theme": "creator",
+            "number": "31089",
+            "BUILT": true,
+            "pieces": 221
+        },
+        {
+            "title": "El Fuego's Stunt Truck",
+            "theme": "hiddenside",
+            "number": "70421",
+            "BUILT": true,
+            "pieces": 428
+        },
+        {
+            "title": "Mail Plane",
+            "theme": "town",
+            "number": "60250",
+            "BUILT": true,
+            "pieces": 74
+        },
+        {
+            "title": "People Pack Outdoor Adventure",
+            "theme": "town",
+            "number": "60202",
+            "BUILT": false,
+            "pieces": 164
+        },
+        {
+            "title": "Sweet Mayhem's Systar Starship",
+            "theme": "movie",
+            "number": "70830",
+            "BUILT": true,
+            "pieces": 502
+        },
+        {
+            "title": "Jewlery Box",
+            "theme": "dots",
+            "number": "41915",
+            "BUILT": false,
+            "pieces": 374
+        },
+        {
+            "title": "White Base Plate",
+            "theme": "classic",
+            "number": "11010",
+            "BUILT": true,
+            "pieces": 1
+        },
+        {
+            "title": "BB-8: Brick Sketches",
+            "theme": "bricksketches starwars",
+            "number": "40431",
+            "BUILT": true,
+            "pieces": 171
+        },
+        {
+            "title": "The Mandalorian And The Child",
+            "theme": "brickheadz starwars",
+            "number": "75317",
+            "BUILT": true,
+            "pieces": 295
+        },
+        {
+            "title": "Tie Fighter Pilot",
+            "theme": "starwars",
+            "number": "75274",
+            "BUILT": true,
+            "pieces": 724
+        },
+        {
+            "title": "Ocean Exploration Submarine",
+            "theme": "town",
+            "number": "60264",
+            "BUILT": false,
+            "pieces": 286
+        },
+        {
+            "title": "Dr. Wu's Lab: Baby Dinosaur Breakout",
+            "theme": "jurassicpark",
+            "number": "75939",
+            "BUILT": true,
+            "pieces": 164
+        },
+        {
+            "title": "Monkey King",
+            "theme": "brickheadz",
+            "number": "40381",
+            "BUILT": true,
+            "pieces": 175
+        },
+        {
+            "title": "Bride",
+            "theme": "brickheadz",
+            "number": "40383",
+            "BUILT": true,
+            "pieces": 306
+        },
+        {
+            "title": "Desert Pokey Expansion Set",
+            "theme": "mario",
+            "number": "71363",
+            "BUILT": true,
+            "pieces": 180
+        },
+        {
+            "title": "Whomp's Lava Trouble",
+            "theme": "mario",
+            "number": "71364",
+            "BUILT": true,
+            "pieces": 133
+        },
+        {
+            "title": "Boomer Bill Barrage",
+            "theme": "mario",
+            "number": "71366",
+            "BUILT": false,
+            "pieces": 132
+        },
+        {
+            "title": "Dragon Dance Guy",
+            "theme": "brickheadz",
+            "number": "40354",
+            "BUILT": true,
+            "pieces": 170
+        },
+        {
+            "title": "Adventures with Mario",
+            "theme": "mario",
+            "number": "71360",
+            "BUILT": true,
+            "pieces": 231
+        },
+        {
+            "title": "Ocean Mini-Submarine",
+            "theme": "town nationalgeographic",
+            "number": "60263",
+            "BUILT": true,
+            "pieces": 41
+        },
+        {
+            "title": "Fairground Accessory Set Blister Pack",
+            "theme": "town",
+            "number": "40373",
+            "BUILT": false,
+            "pieces": 51
+        },
+        {
+            "title": "Cat",
+            "theme": "promotional",
+            "number": "30574",
+            "BUILT": true,
+            "pieces": 55
+        },
+        {
+            "title": "Boba Fett Helmet",
+            "theme": "starwars",
+            "number": "75277",
+            "BUILT": true,
+            "pieces": 625
+        },
+        {
+            "title": "Levi's Dots",
+            "theme": "dots promotional",
+            "number": "40438",
+            "BUILT": true,
+            "pieces": 110
+        },
+        {
+            "title": "Yoda",
+            "theme": "starwars",
+            "number": "75255",
+            "BUILT": true,
+            "pieces": 1771
+        },
+        {
+            "title": "The Child",
+            "theme": "starwars",
+            "number": "75318",
+            "BUILT": true,
+            "pieces": 1075
+        },
+        {
+            "title": "Storm Trooper Helmet",
+            "theme": "starwars",
+            "number": "75276",
+            "BUILT": true,
+            "pieces": 647
+        },
+        {
+            "title": "Frankenstein",
+            "theme": "brickheadz",
+            "number": "40422",
+            "BUILT": true,
+            "pieces": 108
+        },
+        {
+            "title": "Chick",
+            "theme": "brickheadz",
+            "number": "40350",
+            "BUILT": true,
+            "pieces": 120
+        },
+        {
+            "title": "El Fuegos Stunt Cannon",
+            "theme": "hiddenside",
+            "number": "30464",
+            "BUILT": true,
+            "pieces": 46
+        },
+        {
+            "title": "Harry and Hedwig Owl Delivery",
+            "theme": "harrypotter",
+            "number": "30420",
+            "BUILT": true,
+            "pieces": 31
+        },
+        {
+            "title": "Piranha Plant Power Slide",
+            "theme": "mario",
+            "number": "71365",
+            "BUILT": true,
+            "pieces": 217
+        },
+        {
+            "title": "Volswagen TI",
+            "theme": "ideas",
+            "number": "10220",
+            "BUILT": true,
+            "pieces": 1334
+        },
+        {
+            "title": "Shrimp Shack Attack",
+            "theme": "hiddenside",
+            "number": "70422",
+            "BUILT": false,
+            "pieces": 579
+        },
+        {
+            "title": "Birthday Clown",
+            "theme": "brickheadz",
+            "number": "40348",
+            "BUILT": true,
+            "pieces": 150
+        },
+        {
+            "title": "Wedding Groom",
+            "theme": "brickheadz",
+            "number": "40384",
+            "BUILT": true,
+            "pieces": 255
+        },
+        {
+            "title": "Donald Duck",
+            "theme": "brickheadz",
+            "number": "40377",
+            "BUILT": true,
+            "pieces": 90
+        },
+        {
+            "title": "Birthday Cake",
+            "theme": "promotional",
+            "number": "40382",
+            "BUILT": true,
+            "pieces": 141
+        },
+        {
+            "title": "Hogwarts Room of Requirments",
+            "theme": "harrypotter",
+            "number": "75966",
+            "BUILT": false,
+            "pieces": 193
+        },
+        {
+            "title": "Sheep",
+            "theme": "brickheadz",
+            "number": "40380",
+            "BUILT": true,
+            "pieces": 192
+        },
+        {
+            "title": "Forrbidden Forest: Umbridge's Encounter",
+            "theme": "harrypotter",
+            "number": "75967",
+            "BUILT": false,
+            "pieces": 253
+        },
+        {
+            "title": "Guarded Fortress",
+            "theme": "mario",
+            "number": "71362",
+            "BUILT": true,
+            "pieces": 468
+        },
+        {
+            "title": "Vintage Car",
+            "theme": "ideas",
+            "number": "40448",
+            "BUILT": false,
+            "pieces": 189
+        },
+        {
+            "title": "Flower Bouquet",
+            "theme": "botanicalcollection",
+            "number": "10280",
+            "BUILT": true,
+            "pieces": 756
+        },
+        {
+            "title": "Bonsai Tree",
+            "theme": "botanicalcollection",
+            "number": "10281",
+            "BUILT": false,
+            "pieces": 878
+        },
+        {
+            "title": "German Shepard and Puppy",
+            "theme": "brickheadz",
+            "number": "40440",
+            "BUILT": true,
+            "pieces": 247
+        },
+        {
+            "title": "Shorthair Cat and Kitten",
+            "theme": "brickheadz",
+            "number": "40441",
+            "BUILT": true,
+            "pieces": 250
+        },
+        {
+            "title": "Panda And 2 Baby Pandas",
+            "theme": "brickheadz",
+            "number": "40466",
+            "BUILT": true,
+            "pieces": 249
+        },
+        {
+            "title": "Police Water Scooter",
+            "theme": "town promotional",
+            "number": "30567",
+            "BUILT": true,
+            "pieces": 33
+        },
+        {
+            "title": "Thwomp Drop",
+            "theme": "mario",
+            "number": "71376",
+            "BUILT": false,
+            "pieces": 393
+        },
+        {
+            "title": "Wiggler's Poison Swamp",
+            "theme": "mario",
+            "number": "71383",
+            "BUILT": false,
+            "pieces": 374
+        },
+        {
+            "title": "Tuk Tuk",
+            "theme": "creator",
+            "number": "40469",
+            "BUILT": true,
+            "pieces": 155
+        },
+        {
+            "title": "Yello Taxi",
+            "theme": "creator",
+            "number": "40468",
+            "BUILT": true,
+            "pieces": 124
+        },
+        {
+            "title": "Wild Lion",
+            "theme": "creator",
+            "number": "31112",
+            "BUILT": true,
+            "pieces": 224
+        },
+        {
+            "title": "JBs Submarine",
+            "theme": "hiddenside",
+            "number": "70433",
+            "BUILT": false,
+            "pieces": 224
+        },
+        {
+            "title": "Bear",
+            "theme": "brickheadz",
+            "number": "40379",
+            "BUILT": true,
+            "pieces": 150
+        },
+        {
+            "title": "Millennium Falcon Microfighter",
+            "theme": "starwars",
+            "number": "75295",
+            "BUILT": true,
+            "pieces": 101
+        },
+        {
+            "title": "Valentine's Brown Bear",
+            "theme": "bricks",
+            "number": "40462",
+            "BUILT": true,
+            "pieces": 245
+        },
+        {
+            "title": "Chain Chomp Jungle Encounter",
+            "theme": "mario",
+            "number": "71381",
+            "BUILT": true,
+            "pieces": 160
+        },
+        {
+            "title": "Sesame Street",
+            "theme": "ideas",
+            "number": "21324",
+            "BUILT": false,
+            "pieces": 1367
+        },
+        {
+            "title": "Nasa Appollo Saturn V",
+            "theme": "ideas",
+            "number": "92176",
+            "BUILT": false,
+            "pieces": 1969
+        },
+        {
+            "title": "Goldfish and Fry",
+            "theme": "brickheadz",
+            "number": "40442",
+            "BUILT": true,
+            "pieces": 186
+        },
+        {
+            "title": "Budgie and Chick",
+            "theme": "brickheadz",
+            "number": "40443",
+            "BUILT": true,
+            "pieces": 261
+        },
+        {
+            "title": "Mclaren Elva",
+            "theme": "speedchampions promotional",
+            "number": "30343",
+            "BUILT": false,
+            "pieces": 86
+        },
+        {
+            "title": "Easter Chick Egg",
+            "theme": "bricks promotional",
+            "number": "30579",
+            "BUILT": true,
+            "pieces": 52
+        },
+        {
+            "title": "Easter Bunnys Carrot House",
+            "theme": "bricks promotional",
+            "number": "40449",
+            "BUILT": true,
+            "pieces": 232
+        },
+        {
+            "title": "Winnie the Pooh",
+            "theme": "ideas disney",
+            "number": "21326",
+            "BUILT": false,
+            "pieces": 1265
+        },
+        {
+            "title": "Sports Car",
+            "theme": "town",
+            "number": "60285",
+            "BUILT": false,
+            "pieces": 89
+        },
+        {
+            "title": "The Sith",
+            "theme": "starwars art",
+            "number": "31200",
+            "BUILT": true,
+            "pieces": 3406
+        },
+        {
+            "title": "Imperial Probe Droid",
+            "theme": "starwars",
+            "number": "75306",
+            "BUILT": true,
+            "pieces": 683
+        },
+        {
+            "title": "Scout Trooper™ Helmet",
+            "theme": "starwars",
+            "number": "75305",
+            "BUILT": true,
+            "pieces": 471
+        },
+        {
+            "title": "Everyone Is Awesome",
+            "theme": "bricks",
+            "number": "40516",
+            "BUILT": true,
+            "pieces": 346
+        },
+        {
+            "title": "Ducktales",
+            "theme": "brickheadz",
+            "number": "40477",
+            "BUILT": true,
+            "pieces": 340
+        },
+        {
+            "title": "Daisy Duck",
+            "theme": "brickheadz",
+            "number": "40476",
+            "BUILT": true,
+            "pieces": 110
+        },
+        {
+            "title": "Ship in a Bottle",
+            "theme": "ideas",
+            "number": "92177",
+            "BUILT": true,
+            "pieces": 962
+        },
+        {
+            "title": "Dalmatian and Puppy",
+            "theme": "brickheadz",
+            "number": "40479",
+            "BUILT": true,
+            "pieces": 252
+        },
+        {
+            "title": "Skater",
+            "theme": "polybag town",
+            "number": "30568",
+            "BUILT": true,
+            "pieces": 40
+        },
+        {
+            "title": "Belle Bottom, Bob, and Kevin",
+            "theme": "brickheadz minions",
+            "number": "40421",
+            "BUILT": true,
+            "pieces": 309
+        },
+        {
+            "title": "Gru, Straut, and Otto",
+            "theme": "brickheadz minions",
+            "number": "40420",
+            "BUILT": true,
+            "pieces": 244
+        },
+        {
+            "title": "Seinfeld",
+            "theme": "ideas",
+            "number": "21328",
+            "BUILT": false,
+            "pieces": 1326
+        },
+        {
+            "title": "NASA Apollo 11 Lunar Lander",
+            "theme": "creator",
+            "number": "10266",
+            "BUILT": false,
+            "pieces": 1087
+        },
+        {
+            "title": "Batman™ Classic TV Series Batmobile™",
+            "theme": "batman",
+            "number": "76188",
+            "BUILT": false,
+            "pieces": 345
+        },
+        {
+            "title": "Hamster",
+            "theme": "brickheadz",
+            "number": "40482",
+            "BUILT": true,
+            "pieces": 243
+        },
+        {
+            "title": "Cockatiel",
+            "theme": "brickheadz",
+            "number": "40481",
+            "BUILT": true,
+            "pieces": 219
+        },
+        {
+            "title": "Bird of Paradise",
+            "theme": "creator",
+            "number": "10289",
+            "BUILT": true,
+            "pieces": 1173
+        },
+        {
+            "title": "Ginger Tabby",
+            "theme": "brickheadz",
+            "number": "40480",
+            "BUILT": true,
+            "pieces": 269
+        },
+        {
+            "title": "La Catrina",
+            "theme": "brickheadz",
+            "number": "40492",
+            "BUILT": true,
+            "pieces": 141
+        },
+        {
+            "title": "Wildlife Rescue ATV",
+            "theme": "town",
+            "number": "60300",
+            "BUILT": true,
+            "pieces": 74
+        },
+        {
+            "title": "Adventures with Luigi Starter Course",
+            "theme": "mario",
+            "number": "71387",
+            "BUILT": false,
+            "pieces": 280
+        },
+        {
+            "title": "Fuzzy & Mushroom Platform",
+            "theme": "mario polybag promotional",
+            "number": "30389",
+            "BUILT": false,
+            "pieces": 39
+        },
+        {
+            "title": "LEGO® Ideas Fender® Stratocaster™",
+            "theme": "ideas",
+            "number": "21329",
+            "BUILT": false,
+            "pieces": 1074
+        },
+        {
+            "title": "Harry Potter & Hermione Granger™",
+            "theme": "harrypotter",
+            "number": "76393",
+            "BUILT": false,
+            "pieces": 1673
+        },
+        {
+            "title": "Nutcracker",
+            "theme": "brickheadz",
+            "number": "40425",
+            "BUILT": true,
+            "pieces": 180
+        },
+        {
+            "title": "Mickey Mouse's Propeller Plane",
+            "theme": "disney",
+            "number": "10772",
+            "BUILT": false,
+            "pieces": 59
+        },
+        {
+            "title": "Holiday Camper Van",
+            "theme": "city",
+            "number": "60283",
+            "BUILT": true,
+            "pieces": 190
+        },
+        {
+            "title": "Birthday Clown polybag",
+            "theme": "polybag creator",
+            "number": "30565",
+            "BUILT": false,
+            "pieces": 59
+        },
+        {
+            "title": "Build your own Snail polybag",
+            "theme": "polybag",
+            "number": "30563",
+            "BUILT": false,
+            "pieces": 36
+        },
+        {
+            "title": "Santa Claus polybag",
+            "theme": "polybag creator",
+            "number": "30580",
+            "BUILT": false,
+            "pieces": 69
+        },
+        {
+            "title": "Holiday tree polybag",
+            "theme": "polybag creator",
+            "number": "30576",
+            "BUILT": false,
+            "pieces": 70
+        },
+        {
+            "title": "Diver polybag",
+            "theme": "polybag city",
+            "number": "30370",
+            "BUILT": false,
+            "pieces": 15
+        },
+        {
+            "title": "AT-AT™ vs. Tauntaun™ Microfighters",
+            "theme": "starwars",
+            "number": "75298",
+            "BUILT": false,
+            "pieces": 205
+        },
+        {
+            "title": "Bro Thor’s New Asgard",
+            "theme": "marvel",
+            "number": "76200",
+            "BUILT": false,
+            "pieces": 265
+        },
+        {
+            "title": "Sonic the Hedgehog™ – Green Hill Zone",
+            "theme": "ideas",
+            "number": "21331",
+            "BUILT": true,
+            "pieces": 1125
+        },
+        {
+            "title": "Luigi’s Mansion™ Lab and Poltergust Expansion Set",
+            "theme": "mario",
+            "number": "71397",
+            "BUILT": false,
+            "pieces": 179
+        },
+        {
+            "title": "LEGO Creator Apple Tree House",
+            "theme": "creator",
+            "number": "5891",
+            "BUILT": false,
+            "pieces": 539
+        },
+        {
+            "title": "Vintage Camera VIP",
+            "theme": "VIP promotional",
+            "number": "5006911",
+            "BUILT": true,
+            "pieces": 179
+        },
+        {
+            "title": "St. Berbard",
+            "theme": "brickheadz pets",
+            "number": "40543",
+            "BUILT": true,
+            "pieces": 236
+        },
+        {
+            "title": "BYGGLEK",
+            "theme": "ikea",
+            "number": "40357",
+            "BUILT": false,
+            "pieces": 201
+        },
+        {
+            "title": "Bowser Jr.'s Clown Car Expansion Set",
+            "theme": "mario",
+            "number": "71396",
+            "BUILT": false,
+            "pieces": 84
+        },
+        {
+            "title": "Year of the Tiger",
+            "theme": "promotional",
+            "number": "40491",
+            "BUILT": false,
+            "pieces": 193
+        },
+        {
+            "title": "Valentine Lovebirds",
+            "theme": "lego",
+            "number": "40522",
+            "BUILT": false,
+            "pieces": 298
+        },
+        {
+            "title": "Majestic Tiger",
+            "theme": "creator",
+            "number": "31129",
+            "BUILT": false,
+            "pieces": 755
+        },
+        {
+            "title": "German Sheperd",
+            "theme": "creator",
+            "number": "30578",
+            "BUILT": false,
+            "pieces": 76
+        },
+        {
+            "title": "Lion Dance Guy",
+            "theme": "brickheadz",
+            "number": "40540",
+            "BUILT": false,
+            "pieces": 239
+        },
+        {
+            "title": "Sunflowers",
+            "theme": "lego",
+            "number": "40524",
+            "BUILT": true,
+            "pieces": 191
+        },
+        {
+            "title": "French Bulldog",
+            "theme": "brickheadz pets",
+            "number": "40544",
+            "BUILT": true,
+            "pieces": 237
+        },
+        {
+            "title": "Ahsoka Tano",
+            "theme": "brickheadz starwars",
+            "number": "40539",
+            "BUILT": true,
+            "pieces": 164
+        },
+        {
+            "title": "Mario’s House & Yoshi Expansion Set",
+            "theme": "mario",
+            "number": "71367",
+            "BUILT": false,
+            "pieces": 205
+        },
+        {
+            "title": "Buzz Lightyear",
+            "theme": "toystory disney brickheadz",
+            "number": "40552",
+            "BUILT": true,
+            "pieces": 114
+        },
+        {
+            "title": "Raod Runner and Wile E. Coyote",
+            "theme": "brickheadz looneytunes",
+            "number": "40559",
+            "BUILT": true,
+            "pieces": 205
+        },
+        {
+            "title": "Woody and Bo Peep",
+            "theme": "toystory disney brickheadz",
+            "number": "40553",
+            "BUILT": true,
+            "pieces": 296
+        },
+        {
+            "title": "Demogorgon & Eleven",
+            "theme": "strangerthings brickheadz",
+            "number": "40549",
+            "BUILT": true,
+            "pieces": 192
+        },
+        {
+            "title": "Luigi’s Mansion™ Entryway Expansion Set",
+            "theme": "mario",
+            "number": "71399",
+            "BUILT": false,
+            "pieces": 504
+        },
+        {
+            "title": "Spice Girls Tribute",
+            "theme": "brickheadz",
+            "number": "40548",
+            "BUILT": true,
+            "pieces": 578
+        },
+        {
+            "title": "Chip & Dale",
+            "theme": "brickheadz",
+            "number": "40550",
+            "BUILT": true,
+            "pieces": 226
+        },
+        {
+            "title": "The Mandalorian™ Helmet",
+            "theme": "starwars",
+            "number": "75328",
+            "BUILT": false,
+            "pieces": 584
+        },
+        {
+            "title": "Easter Bunny",
+            "theme": "creator promotional",
+            "number": "30583",
+            "BUILT": false,
+            "pieces": 75
+        },
+        {
+            "title": "Easter Chicks",
+            "theme": "lego promotional",
+            "number": "40527",
+            "BUILT": false,
+            "pieces": 318
+        },
+        {
+            "title": "Orchid",
+            "theme": "creator",
+            "number": "10311",
+            "BUILT": true,
+            "pieces": 608
+        },
+        {
+            "title": "Succulents",
+            "theme": "creator",
+            "number": "10309",
+            "BUILT": true,
+            "pieces": 771
+        },
+        {
+            "title": "Dolphin and Turtle",
+            "theme": "creator",
+            "number": "31128",
+            "BUILT": true,
+            "pieces": 137
+        },
+        {
+            "title": "I am Groot",
+            "theme": "marvel",
+            "number": "76217",
+            "BUILT": true,
+            "pieces": 476
+        },
+        {
+            "title": "Jazz Quartet",
+            "theme": "ideas",
+            "number": "21334",
+            "BUILT": false,
+            "pieces": 1606
+        },
+        {
+            "title": "T. rex Breakout",
+            "theme": "jurassicpark",
+            "number": "76956",
+            "BUILT": false,
+            "pieces": 1212
+        },
+        {
+            "title": "LEGO® Children’s Amusement Park",
+            "theme": "lego",
+            "number": "40529",
+            "BUILT": false,
+            "pieces": 170
+        },
+        {
+            "title": "Cosmic Cardboard Adventures",
+            "theme": "ideas",
+            "number": "40533",
+            "BUILT": false,
+            "pieces": 203
+        },
+        {
+            "title": "Luke Skywalker™ (Red Five) Helmet",
+            "theme": "starwars",
+            "number": "75327",
+            "BUILT": false,
+            "pieces": 675
+        },
+        {
+            "title": "Vincent van Gogh - The Starry Night",
+            "theme": "ideas",
+            "number": "21333",
+            "BUILT": false,
+            "pieces": 2316
+        },
+        {
+            "title": "Halloween Cat & Mouse",
+            "theme": "lego",
+            "number": "40570",
+            "BUILT": false,
+            "pieces": 328
+        },
+        {
+            "title": "Koi Fish",
+            "theme": "Brickheadz",
+            "number": "40545",
+            "BUILT": false,
+            "pieces": 203
+        },
+        {
+            "title": "Birthday Bear",
+            "theme": "creator",
+            "number": "30582",
+            "BUILT": false,
+            "pieces": 80
+        },
+        {
+            "title": "Poodle",
+            "theme": "Brickheadz",
+            "number": "40546",
+            "BUILT": false,
+            "pieces": 304
+        },
+        {
+            "title": "Goomba's Shoe",
+            "theme": "mario",
+            "number": "71404",
+            "BUILT": false,
+            "pieces": 76
+        },
+        {
+            "title": "Zurg Battle",
+            "theme": "disney",
+            "number": "76831",
+            "BUILT": false,
+            "pieces": 261
+        }
+      ]
+    }
+}

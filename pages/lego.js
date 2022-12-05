@@ -1,6 +1,7 @@
 import useSWR from 'swr';
 import Search from '../components/search.js';
 import { useState } from "react";
+import LegoList from '../components/lego-list.js';
 
 
 
@@ -22,7 +23,9 @@ function Lego(props){
 
 
     return(
-        <div></div>
+        <div>
+            <LegoList legos = {legoData.CATALOG.LEGO}/>
+        </div>
     );
 }
 
