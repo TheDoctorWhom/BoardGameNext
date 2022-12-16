@@ -1595,7 +1595,7 @@
             "title": "Jazz Quartet",
             "theme": "ideas",
             "number": "21334",
-            "BUILT": false,
+            "BUILT": true,
             "pieces": 1606
         },
         {

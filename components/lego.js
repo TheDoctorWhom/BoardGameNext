@@ -6,6 +6,8 @@ function Lego (props){
 
     const imageURL = `https://img.bricklink.com/ItemImage/SN/0/${number}-1.png`;
 
+    const builtString = built ? '🧱' : '';
+
     return (
         <li className={classes.item}>
             <img src={imageURL} alt={title} />
@@ -14,7 +16,7 @@ function Lego (props){
                 <p>Theme: {theme}</p>
                 <p>Number: {number}</p>
                 <p>Pieces: {pieces}</p>
-                <p>{built?"🧱":""}</p>
+                <p>{builtString}</p>
             </div>
         </li>
     );

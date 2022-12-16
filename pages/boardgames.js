@@ -23,7 +23,7 @@ export default function Boardgames() {
   
   const boardgameData = JSON.parse(data);
 
-  function findEventHandler(searchTerm, data){
+  function findBoardgameHandler(searchTerm, data){
     console.log(searchTerm);
       if (searchTerm && data){
         const boardgameFilteredData = data.map((boardgame) => {
@@ -45,7 +45,7 @@ export default function Boardgames() {
 
   return (
     <div>
-      <Search onSearch={findEventHandler} data={boardgameData.CATALOG.GAME}/>
+      <Search onSearch={findBoardgameHandler} data={boardgameData.CATALOG.GAME}/>
       <BoardgameList  boardgames={boardgames?boardgames:boardgameData.CATALOG.GAME}/>
     </div>
   );
