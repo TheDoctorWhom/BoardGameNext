@@ -41,7 +41,7 @@ function Lego(props){
 
     return(
         <div>
-            <Search onSearch={findLegoHandler} data={legoData.CATALOG.LEGO}/>
+            <Search onSearch={findLegoHandler} data={legoData.CATALOG.LEGO }/>
             <LegoList legos = {lego?lego:legoData.CATALOG.LEGO}/>
         </div>
     );

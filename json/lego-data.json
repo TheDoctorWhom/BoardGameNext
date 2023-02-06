@@ -1674,6 +1674,76 @@
             "number": "76831",
             "BUILT": false,
             "pieces": 261
+        },
+        {
+            "title": "Mini Disney The Haunted Mansion",
+            "theme": "disney",
+            "number": "40521",
+            "BUILT": true,
+            "pieces": 680
+        },
+        {
+            "title": "Tuskin Raider",
+            "theme": "disney bickheadz",
+            "number": "40615",
+            "BUILT": true,
+            "pieces": 152
+        },
+        {
+            "title": "Mini Disney Castle",
+            "theme": "disney",
+            "number": "40478",
+            "BUILT": false,
+            "pieces": 567
+        },
+        {
+            "title": "Pinata",
+            "theme": "lego",
+            "number": "40644",
+            "BUILT": false,
+            "pieces": 206
+        },
+        {
+            "title": "Frodo & Gollum",
+            "theme": "lotr brickheadz",
+            "number": "40630",
+            "BUILT": false,
+            "pieces": 184
+        },
+        {
+            "title": "Daffodils",
+            "theme": "botanicalcollection",
+            "number": "40646",
+            "BUILT": false,
+            "pieces": 216
+        },
+        {
+            "title": "Christmas Penguin",
+            "theme": "lego",
+            "number": "40498",
+            "BUILT": false,
+            "pieces": 244
+        },
+        {
+            "title": "Jake Sully & his Avatar",
+            "theme": "avatar",
+            "number": "40554",
+            "BUILT": false,
+            "pieces": 246
+        },
+        {
+            "title": "Wintertime Polar Bear",
+            "theme": "lego",
+            "number": "40571",
+            "BUILT": false,
+            "pieces": 312
+        },
+        {
+            "title": "Penguin & Snowflake",
+            "theme": "lego",
+            "number": "40572",
+            "BUILT": false,
+            "pieces": 139
         }
       ]
     }
