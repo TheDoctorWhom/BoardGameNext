@@ -11,6 +11,7 @@ function MainHeader(){
                 <ul className={classes.navigationWrapper}>
                     <li><Link href='/boardgames'>Boardgames</Link></li>
                     <li><Link href='/lego'>Lego</Link></li>
+                    <li><Link href='/records'>Records</Link></li>
                 </ul>
             </nav>
         </header>
