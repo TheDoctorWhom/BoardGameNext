@@ -1744,6 +1744,20 @@
             "number": "40572",
             "BUILT": false,
             "pieces": 139
+        },
+        {
+            "title": "White Rabbit",
+            "theme": "creator",
+            "number": "31133",
+            "BUILT": true,
+            "pieces": 258
+        },
+        {
+            "title": "Princess Leia™ (Boushh™) Helmet",
+            "theme": "starwars",
+            "number": "75351",
+            "BUILT": false,
+            "pieces": 670
         }
       ]
     }
