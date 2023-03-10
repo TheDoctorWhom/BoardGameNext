@@ -2,202 +2,388 @@
     "CATALOG": {
        "RECORD": [
         {
-            "title": "110 Rapture"
+            "title": "Rapture",
+            "artist": "iiO",
+            "year": 2006,
+            "published": "made records"
         },
         {
-            "title": "Aerosmith Toys in the Attic"
+            "title": "Toys in the Attic",
+            "artist": "Aerosmith",
+            "year": 1975,
+            "published": "Aerodisc Partnership"
         },
         {
-            "title": "Anathallo entropy"
+            "title": "entropy",
+            "artist": "Anathallo",
+            "year": 2005,
+            "published": "Anathallo"
         },
         {
-            "title": "Beach boys the best of the Beach Boys"
+            "title": "The Best of the Beach Boys",
+            "artist": "Beach Boys",
+            "year": 1972,
+            "published": "Capitol Records"
         },
         {
-            "title": "Beatles Abbey Road"
+            "title": "Abbey Road",
+            "artist": "Beatles",
+            "year": 1969,
+            "published": "Apple Records"
         },
         {
-            "title": "Beatles Magical Mystery Tour"
+            "title": "Magical Mystery Tour",
+            "artist": "Beatles",
+            "year": 1967,
+            "published": "Apple Records"
         },
         {
-            "title": "Blackalicious Blazing Arrow"
+            "title": "Blazing Arrow",
+            "artist": "Blackalicious",
+            "year": 2002,
+            "published": "MCA Records"
         },
         {
-            "title": "blue midnight"
+            "title": "Blue Midnight",
+            "artist": "Bert Kaempfert & His Orchestra",
+            "year": 1965,
+            "published": "Decca"
         },
         {
-            "title": "Buddy Rich Pacific Jazz"
+            "title": "Swingin' New Big Band",
+            "artist": "Buddy Rich",
+            "year": 1981,
+            "published": "Pacific Jazz"
         },
         {
-            "title": "cars panorama"
+            "title": "Panorama",
+            "artist": "The Cars",
+            "year": 1980,
+            "published": "Elektra"
         },
         {
-            "title": "Childish Gambino because the internet"
+            "title": "Because the internet",
+            "artist": "Childish Gambino",
+            "year": 2013,
+            "published": "Glassnote"
         },
         {
-            "title": "clockwork orange"
+            "title": "Stanley Kubrick's A Clockwork Orange (Music From The Soundtrack)",
+            "artist": "VArious",
+            "year": 1971,
+            "published": "Warner Bros. Records"
         },
         {
-            "title": "earplugs Mars ill"
+            "title": "Blue Collar Sessions",
+            "artist": "Mars Ill",
+            "year": 2002,
+            "published": "Ill Boogie Records"
         },
         {
-            "title": "Earth Wind & Fire Head to the Sky"
+            "title": "Head to the Sky",
+            "artist": "Earth Wind & Fire",
+            "year": 1973,
+            "published": "Columbia"
         },
         {
-            "title": "Elvis separate ways"
+            "title": "Separate Ways",
+            "artist": "Elvis",
+            "year": 1972,
+            "published": "RCA Camden"
         },
         {
-            "title": "Eurythmics 1984"
+            "title": "1984 (For The Love Of Big Brother)",
+            "artist": "Eurythmics",
+            "year": 1984,
+            "published": "Virgin"
         },
         {
-            "title": "everything you always wanted to hear on Moog"
+            "title": "Everything You Always Wanted To Hear On The Moog (But Were Afraid To Ask For)",
+            "artist": "The Mighty Moog",
+            "year": 1972,
+            "published": "CBS"
         },
         {
-            "title": "Fatboy Slim you've come a long way baby"
+            "title": "You've Come A Long Way, Baby",
+            "artist": "Fatboy Slim",
+            "year": 1998,
+            "published": "Skint"
         },
         {
-            "title": "free at last dr. Martin Luther King jr"
+            "title": "...free at last",
+            "artist": "Dr. Martin Luther King jr",
+            "year": 1968,
+            "published": "Gordy"
         },
         {
-            "title": "Genesis"
+            "title": "invisible touch",
+            "artist": "Genesis",
+            "year": 1986,
+            "published": "Charisma"
         },
         {
-            "title": "Genesis invisible touch"
+            "title": "Ghostbusters",
+            "artist": "Ray Parker Jr.",
+            "year": 1984,
+            "published": "Arista"
         },
         {
-            "title": "Ghostbusters"
+            "title": "Winds of Change",
+            "artist": "Jefferson Starship",
+            "year": 1982,
+            "published": "Grunt"
         },
         {
-            "title": "hugo largo"
+            "title": "Collection",
+            "artist": "John Lennon",
+            "year": 1982,
+            "published": "Parlophone"
         },
         {
-            "title": "Jefferson Starship Winds of Change"
+            "title": "Robot Rock",
+            "artist": "Joy Electric",
+            "year": 1997,
+            "published": "BEC Recordings"
         },
         {
-            "title": "john lennon collection"
+            "title": "lichens",
+            "artist": "lichens",
+            "year": 2007,
+            "published": "none"
         },
         {
-            "title": "Joy electric robot rock"
+            "title": "Louis Armstrong Plays W. C. Handy",
+            "artist": "Louis Armstrong",
+            "year": 1954,
+            "published": "Columbia"
         },
         {
-            "title": "lichens"
+            "title": "Backbreakanomics",
+            "artist": "Mars ill",
+            "year": 2003,
+            "published": "Gotee Records"
         },
         {
-            "title": "Louis Armstrong plays w c handy volume two"
+            "title": " monalisa",
+            "artist": "Mars ill",
+            "year": 2001,
+            "published": "Deepspace5 Recordins"
         },
         {
-            "title": "Mars ill blue-collar sessions"
+            "title": "Bat Out of Hell",
+            "artist": "Meatloaf",
+            "year": 1977,
+            "published": "Epic"
         },
         {
-            "title": "Mars ill Backbreakanomics"
+            "title": "Prestige of disaster",
+            "artist": "Midas Touch",
+            "year": 1989,
+            "published": "Noise International"
         },
         {
-            "title": "Mars ill monalisa"
+            "title": "Porcelain",
+            "artist": "Moby",
+            "year": 2000,
+            "published": "Mute"
         },
         {
-            "title": "Meatloaf Bat Out of Hell"
+            "title": " –Moog! Claude Denjean And The Moog Synthesizer",
+            "artist": "Claude Denjean",
+            "year": 1970,
+            "published": "London Records"
         },
         {
-            "title": "Midas Touch Prestige of disaster"
+            "title": "Switched On Nashville (Country Moog)",
+            "artist": "Gil Trythall",
+            "year": 1972,
+            "published": "Athena Records"
         },
         {
-            "title": "Moby Porcelain"
+            "title": "Blue Monday / stitches",
+            "artist": "Orgy",
+            "year": 1998,
+            "published": "F-111 Records"
         },
         {
-            "title": "Moog!"
+            "title": "fiction (dreams of digital)",
+            "artist": "Orgy",
+            "year": 2000,
+            "published": "Reprise Records"
         },
         {
-            "title": "Country Moog"
+            "title": "Pac-Man album",
+            "artist": "Patrick McBride, Dana Walden",
+            "year": 1980,
+            "published": "Bally Midway Mfg. Co."
         },
         {
-            "title": "orgy Blue Monday / stitches"
+            "title": "Graceland",
+            "artist": "Paul Simon",
+            "year": 1986,
+            "published": "Warner Bros. Records"
         },
         {
-            "title": "orgy she dreams of digital"
+            "title": "No Jacket Required",
+            "artist": "Phil Collins",
+            "year": 1985,
+            "published": "WEA"
         },
         {
-            "title": "Pac-Man album"
+            "title": "Love & Peace",
+            "artist": "Ray Charles",
+            "year": 1978,
+            "published": "London Records"
         },
         {
-            "title": "Paul Simon Graceland"
+            "title": "Don't Sweat the Technique",
+            "artist": "Eric B. & Rakim",
+            "year": 1992,
+            "published": "MCA Records"
         },
         {
-            "title": "Phil Collins no jacket required"
+            "title": "Reels Of White Softly Flow",
+            "artist": "Reels Of White Softly Flow",
+            "year": 2002,
+            "published": "Burnt Toast Vinyl"
         },
         {
-            "title": "Ray Charles love and peas"
+            "title": "Sammy Davis Jr.'s Greatest Hits",
+            "artist": "Sammy Davis jr.",
+            "year": 1968,
+            "published": "Reprise Records"
         },
         {
-            "title": "Eric B. & Rakim don't sweat the technique"
+            "title": "Bridge Over Troubled Water",
+            "artist": "Simon and Garfunkel",
+            "year": 1970,
+            "published": "CBS"
         },
         {
-            "title": "reels of white"
+            "title": "Parsley Sage Rosemary Thyme",
+            "artist": "Simon and Garfunkel",
+            "year": 1966,
+            "published": "CBS"
         },
         {
-            "title": "Sammy Davis jr. Greatest Hits"
+            "title": "Wednesday Morning 3 a.m.",
+            "artist": "Simon and Garfunkel",
+            "year": 1964,
+            "published": "Columbia"
         },
         {
-            "title": "Simon and Garfunkel  bridge-over-troubled-water"
+            "title": "sounds to make you shiver",
+            "artist": "No-Artist",
+            "year": 1974,
+            "published": "Pickwick"
         },
         {
-            "title": "Simon and Garfunkel Parsley Sage Rosemary Thyme"
+            "title": "Star Trek: The Motion Picture",
+            "artist": "Jerry Goldsmith",
+            "year": 1979,
+            "published": "Columbia"
         },
         {
-            "title": "Simon and Garfunkel Wednesday morning 3 a.m."
+            "title": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+            "artist": "John Williams",
+            "year": 2016,
+            "published": "Walt Disney Records"
         },
         {
-            "title": "sounds to make you shiver"
+            "title": "Peregrine",
+            "artist": "The Appleseed Cast",
+            "year": 2006,
+            "published": "The Militia Group"
         },
         {
-            "title": "Star Trek the motion picture soundtrack"
+            "title": "Hey Jude (The Beatles Again)",
+            "artist": "Beatles",
+            "year": 1970,
+            "published": "Apple Records"
         },
         {
-            "title": "Star Wars the Force awakens"
+            "title": "The Bob's Burgers Music Album",
+            "artist": "Bob's Burgers",
+            "year": 1917,
+            "published": "Sub Pop"
         },
         {
-            "title": "Appleseed cast Paraguay"
+            "title": "Blank-Wave Arcade",
+            "artist": "The Faint",
+            "year": 1999,
+            "published": "Saddle Creek"
         },
         {
-            "title": "Beatles Hey Jude"
+            "title": "It's Only Rock and Roll",
+            "artist": "the Rolling Stones",
+            "year": 1974,
+            "published": "Rolling Stone Records"
         },
         {
-            "title": "Bob's Burgers musical album"
+            "title": "Thelonious Monk With John Coltrane",
+            "artist": "Thelonious Monk With John Coltrane",
+            "year": 1961,
+            "published": "Jazzland"
         },
         {
-            "title": "Faint Black Wave Arcade"
+            "title": "...then there were three...",
+            "artist": "Genesis",
+            "year": 1978,
+            "published": "Charisma"
         },
         {
-            "title": "the Rolling Stones It's Only Rock and Roll"
+            "title": "Labour of Love",
+            "artist": "UB40",
+            "year": 1983,
+            "published": "DEP International"
         },
         {
-            "title": "thelonious monk"
+            "title": "Circles",
+            "artist": "Unwed Sailor",
+            "year": 2006,
+            "published": "Burnt Toast Vinyl"
         },
         {
-            "title": "then there were three"
+            "title": "The Marionette And The Music Box",
+            "artist": "Unwed Sailor",
+            "year": 2003,
+            "published": "Burnt Toast Vinyl"
         },
         {
-            "title": "UB40 Labour of love"
+            "title": "The White Ox",
+            "artist": "Unwed Sailor",
+            "year": 2006,
+            "published": "Burnt Toast Vinyl"
         },
         {
-            "title": "unwed sailor a circles"
+            "title": "Very Metal Noise Pollution",
+            "artist": "Pop Will Eat Itself",
+            "year": 1989,
+            "published": "RCA"
         },
         {
-            "title": "unwed sailor the marionette the music box"
+            "title": "The Who By Numbers",
+            "artist": "The Who",
+            "year": 1975,
+            "published": "Polydor"
         },
         {
-            "title": "unwed sailor the White ox"
+            "title": "Red Headed Stranger",
+            "artist": "Willie Nelson",
+            "year": 1975,
+            "published": "Columbia"
         },
         {
-            "title": "Very Metal noise pollution"
+            "title": "Wonder Woman",
+            "artist": "Unknown",
+            "year": 1976,
+            "published": "Power Records"
         },
         {
-            "title": "Who, the the who by numbers"
-        },
-        {
-            "title": "Willie Nelson red headed stranger"
-        },
-        {
-            "title": "wonder woman"
+            "title": "Thriller",
+            "artist": "Michael Jackson",
+            "year": 1982,
+            "published": "Epic"
         }
  
        ]
