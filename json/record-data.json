@@ -384,7 +384,236 @@
             "artist": "Michael Jackson",
             "year": 1982,
             "published": "Epic"
+        },
+        {
+            "title": "Purple Rain",
+            "artist": "Prince And The Revolution",
+            "year": 1984,
+            "published": "Warner Bros. Records"
+        },
+        {
+            "title": "Shades Of",
+            "artist": "Gray",
+            "year": 2020,
+            "published": "Ubiquity"
+        },
+        {
+            "title": "Candy-O",
+            "artist": "The Carsy",
+            "year": 1979,
+            "published": "Elektra"
+        },
+        {
+            "title": "Another Time",
+            "artist": "Earth Wind & Fire",
+            "year": 1974,
+            "published": "Warner Bros. Records"
+        },
+        {
+            "title": "52nd Street",
+            "artist": "Billy Joel",
+            "year": 1978,
+            "published": "Columbia Records"
+        },
+        {
+            "title": "Weird Al Yankovic in 3D",
+            "artist": "Weird Al Yankovic",
+            "year": 1984,
+            "published": "CBS"
+        },
+        {
+            "title": "You Are There",
+            "artist": "Mono",
+            "year": 2006,
+            "published": "Human Highway Records"
+        },
+        {
+            "title": "Disney Vol. 1 & 2 Ultimate Hits",
+            "artist": "Disney/Pixar",
+            "year": 2021,
+            "published": "Disney/Pixar"
+        },
+        {
+            "title": "Come Get It",
+            "artist": "Rick James",
+            "year": 1978,
+            "published": "Motown Records"
+        },
+        {
+            "title": "House of Funk",
+            "artist": "General Midi",
+            "year": 2005,
+            "published": "Kilowatt Recordings"
+        },
+        {
+            "title": "RRRRRRock",
+            "artist": "T K Disco",
+            "year": 1979,
+            "published": "T K Productions"
+        },
+        {
+            "title": "A child's introduction to Atomic Energy and Outer Space",
+            "artist": "John Dirks",
+            "year": 1960,
+            "published": "Wonderland Records"
+        },
+        {
+            "title": "The Greatest Showman",
+            "artist": "Benj Pasek & Justin Paul",
+            "year": 2017,
+            "published": "Atlantic Recordings"
+        },
+        {
+            "title": "Pet Shop Boys",
+            "artist": "Please",
+            "year": 1986,
+            "published": "EMI Records"
+        },
+        {
+            "title": "!!Going Places!!",
+            "artist": "Herb Alpert and the Tijuana Brass",
+            "year": 1965,
+            "published": "A&M Records"
+        },
+        {
+            "title": "Hanukkah+",
+            "artist": "Various",
+            "year": 2019,
+            "published": "UMG Recordings"
+        },
+        {
+            "title": "Electronic Music ",
+            "artist": "John Cage",
+            "year": 1966,
+            "published": "Turnabout"
+        },
+        {
+            "title": "Number Ones",
+            "artist": "Stevie Wonder",
+            "year": 2007,
+            "published": "Motown Records"
+        },
+        {
+            "title": "The Beach Boys Today!",
+            "artist": "The Beach Boys",
+            "year": 1965,
+            "published": "Capitol Records"
+        },
+        {
+            "title": "Paranoid",
+            "artist": "Black Sabbath",
+            "year": 1970,
+            "published": "Warner Bros. Records"
+        },
+        {
+            "title": "Snoopy's Christmas",
+            "artist": "The Peppermint Kandy Kids",
+            "year": 1977,
+            "published": "Peter Pan Records"
+        },
+        {
+            "title": "Rudolph the Red Nosed Reindeer",
+            "artist": "The Peppermint Kandy Kids",
+            "year": 1981,
+            "published": "Peter Pan Records"
+        },
+        {
+            "title": "Merry Christmas with the Smurfs",
+            "artist": "Ferry Wienneke",
+            "year": 1983,
+            "published": "Starland Music"
+        },
+        {
+            "title": "The Best of Christmas Music",
+            "artist": "Ferry Wienneke",
+            "year": 1972,
+            "published": "Columbia House Records"
+        },
+        {
+            "title": "We Wish You a Merry Christmas",
+            "artist": "Ray Conniff and the Ray Conniff Singers",
+            "year": 1962,
+            "published": "Columbia Records"
+        },
+        {
+            "title": "Merry Christmas",
+            "artist": "Johnny Mathis",
+            "year": 1967,
+            "published": "Columbia Records"
+        },
+        {
+            "title": "Great Songs of Christmas",
+            "artist": "Various",
+            "year": 1966,
+            "published": "Columbia Records"
+        },
+        {
+            "title": "You Light Up My Life",
+            "artist": "Johnny Mathis",
+            "year": 1978,
+            "published": "Columbia Records"
+        },
+        {
+            "title": "Zenyatta Mondatta",
+            "artist": "The Police",
+            "year": 1980,
+            "published": "A&M Records"
+        },
+        {
+            "title": "Walt Disney's Happiest Songs",
+            "artist": "Disney",
+            "year": 1967,
+            "published": "Disney"
+        },
+        {
+            "title": "Disney Tim Burton's The Nightmare Before Christmas",
+            "artist": "Disney",
+            "year": 2016,
+            "published": "Disney"
+        },
+        {
+            "title": "The Return Original Sountrack",
+            "artist": "Satalite of Love",
+            "year": 2017,
+            "published": "Shout Factory"
+        },
+        {
+            "title": "Encanto",
+            "artist": "Disney",
+            "year": 2022,
+            "published": "Disney"
+        },
+        {
+            "title": "Pacific Daydream",
+            "artist": "Weezer",
+            "year": 2017,
+            "published": "Crush Music"
+        },
+        {
+            "title": "The Awsome Album",
+            "artist": "Mouse Rat",
+            "year": 2021,
+            "published": "Dualtone"
+        },
+        {
+            "title": "BreakDance",
+            "artist": "Various",
+            "year": 1984,
+            "published": "Various"
+        },
+        {
+            "title": "The Blue Album",
+            "artist": "Weezer",
+            "year": 2004,
+            "published": "UME"
+        },
+        {
+            "title": "The Bob's Burgers Movie (A Major Motion Burger Soundtrack)",
+            "artist": "Bob's Burgers",
+            "year": 2022,
+            "published": "Hollywood Records"
         }
+
  
        ]
     }

@@ -1175,10 +1175,19 @@
             "title": "Dungeon Drop",
             "difficulty": "easy",
             "players": "1–4 Players",
-            "time": "10–20 Minn",
+            "time": "10–20 Min",
             "type": "board",
             "lastplayed": null,
             "link": "https://boardgamegeek.com/boardgame/262208/dungeon-drop"
+         },
+         {
+            "title": "Disney It's a Small World Game",
+            "difficulty": "easy",
+            "players": "2–6 Players",
+            "time": "20 Min",
+            "type": "board",
+            "lastplayed": null,
+            "link": "https://boardgamegeek.com/boardgame/337754/disney-its-small-world-game"
          }
  
        ]
